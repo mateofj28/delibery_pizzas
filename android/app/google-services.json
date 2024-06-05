@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "696449620805",
+    "project_id": "delibery-2fcc7",
+    "storage_bucket": "delibery-2fcc7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:696449620805:android:ef83453c2422c10c0b7c2c",
+        "android_client_info": {
+          "package_name": "com.example.delibery_pizzas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1Ybs-OW54LNjx4wGnQfA96JltxmvQtF0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

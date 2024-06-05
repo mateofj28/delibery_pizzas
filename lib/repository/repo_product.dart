@@ -1,5 +1,6 @@
 import 'package:cloud_firestore/cloud_firestore.dart';
-import 'package:delibery_pizzas/models/pizza.dart';
+import 'package:delibey/models/pizza.dart';
+
 
 class DaoProduct {
 

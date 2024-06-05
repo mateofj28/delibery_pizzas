@@ -1,14 +1,15 @@
-import 'package:delibery_pizzas/providers/pizzas_providers.dart';
-import 'package:delibery_pizzas/screens/create_product.dart';
-import 'package:delibery_pizzas/screens/create_repartidor.dart';
-import 'package:delibery_pizzas/screens/home.dart';
-import 'package:delibery_pizzas/screens/home_admin.dart';
-import 'package:delibery_pizzas/screens/login.dart';
-import 'package:delibery_pizzas/screens/menu.dart';
-import 'package:delibery_pizzas/screens/menu_admin.dart';
-import 'package:delibery_pizzas/screens/my_profile.dart';
-import 'package:delibery_pizzas/screens/signUp.dart';
-import 'package:delibery_pizzas/screens/welcome.dart';
+
+import 'package:delibey/providers/pizzas_providers.dart';
+import 'package:delibey/screens/create_product.dart';
+import 'package:delibey/screens/create_repartidor.dart';
+import 'package:delibey/screens/home.dart';
+import 'package:delibey/screens/home_admin.dart';
+import 'package:delibey/screens/login.dart';
+import 'package:delibey/screens/menu.dart';
+import 'package:delibey/screens/menu_admin.dart';
+import 'package:delibey/screens/my_profile.dart';
+import 'package:delibey/screens/signUp.dart';
+import 'package:delibey/screens/welcome.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import 'package:firebase_core/firebase_core.dart';

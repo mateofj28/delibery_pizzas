@@ -1,4 +1,5 @@
-import 'package:delibery_pizzas/repository/repo_product.dart';
+
+import 'package:delibey/repository/repo_product.dart';
 import 'package:flutter/material.dart';
 
 class PizzasProviders extends ChangeNotifier {

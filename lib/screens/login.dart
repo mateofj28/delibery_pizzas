@@ -1,4 +1,5 @@
-import 'package:delibery_pizzas/providers/pizzas_providers.dart';
+
+import 'package:delibey/providers/pizzas_providers.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 
